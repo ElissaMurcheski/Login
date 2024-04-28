@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="application_name">My Login</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="email">Email</string>
+    <string name="login">Entrar</string>
+</resources>
