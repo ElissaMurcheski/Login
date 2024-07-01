@@ -8,5 +8,5 @@ import androidx.compose.ui.Modifier
 
 @Composable
 fun RowScope.InputEmail(value: String, onValueChange: (String) -> Unit) {
-    TextField(value, onValueChange, modifier = Modifier.fillMaxWidth())
+    InputText(value, onValueChange)
 }
